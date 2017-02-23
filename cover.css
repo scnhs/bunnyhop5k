@@ -2,18 +2,12 @@
     background-color: black;
     background-image: url("http://i.imgur.com/GTlMhwK.jpg");
     color: white;
+    padding: 100px 25px;
 }
 
 bg-grey {
     background-color: #f6f6f6;
 }
-
-.jumbotron {
-    background-color: #f4511e;
-    color: #fff;
-    padding: 100px 25px;
-}
-
 .container-fluid {
     padding: 60px 50px;
 }
