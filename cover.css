@@ -4,10 +4,10 @@
     color: white;
     padding: 100px 25px;
 }
+.container-fluid {
+    padding: 60px 50px;
+}
 
 .bg-grey {
     background-color: #f6f6f6;
-}
-.container-fluid {
-    padding: 60px 50px;
 }
