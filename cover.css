@@ -96,6 +96,11 @@
     color: #fff !important;
 }
 
+.map {
+    height:400px;
+    width:100%;
+}
+
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
@@ -135,4 +140,5 @@ footer .glyphicon {
         -webkit-transform: translateY(0%);
     }
 }
+
 
