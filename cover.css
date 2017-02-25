@@ -25,7 +25,7 @@
 }
 
 .panel {
-    border: 1px solid #6adda7; 
+    border: 1px solid #b1ee8e; 
     border-radius:0;
     transition: box-shadow 0.5s;
 }
@@ -35,14 +35,14 @@
 }
 
 .panel-footer .btn:hover {
-    border: 1px solid #6adda7;
+    border: 1px solid #b1ee8e;
     background-color: #fff !important;
-    color: #6adda7;
+    color: #b1ee8e;
 }
 
 .panel-heading {
     color: #fff !important;
-    background-color: #6adda7 !important;
+    background-color: #b1ee8e !important;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
