@@ -25,7 +25,7 @@
 }
 
 .panel {
-    border: 1px solid #6adadd; 
+    border: 1px solid #6adda7; 
     border-radius:0;
     transition: box-shadow 0.5s;
 }
@@ -35,14 +35,14 @@
 }
 
 .panel-footer .btn:hover {
-    border: 1px solid #6adadd;
+    border: 1px solid #6adda7;
     background-color: #fff !important;
-    color: #6adadd;
+    color: #6adda7;
 }
 
 .panel-heading {
     color: #fff !important;
-    background-color: #6adadd !important;
+    background-color: #6adda7 !important;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
@@ -66,7 +66,7 @@
 
 .panel-footer .btn {
     margin: 15px 0;
-    background-color: #6adadd;
+    background-color: #6adda7;
     color: #fff;
 }
 
