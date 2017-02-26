@@ -17,6 +17,10 @@
 .logo {
     font-size: 200px;
 }
+.form-inline {
+    float: right;
+    clear: both;
+}
 @media screen and (max-width: 768px) {
     .col-sm-4 {
         text-align: center;
