@@ -1,6 +1,7 @@
 .jumbotron { 
     background-color: black;
-    background-image: url("http://i.imgur.com/n7TbOxu.png");
+    /* background-image: url("http://i.imgur.com/n7TbOxu.png");*/
+    background-image: url("grass.png");
     color: white;
     text-align: center;
     vertical-align: middle;
