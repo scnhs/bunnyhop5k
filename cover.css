@@ -20,7 +20,7 @@
 
 .btn-danger:hover {
     border: 1px solid #99FFD4;
-    background-color: #fff !important;
+    background-color: transparent !important;
     color: #99FFD4;
 }
 
@@ -58,7 +58,7 @@
 
 .panel-footer .btn:hover {
     border: 1px solid #99FFD4;
-    background-color: #transparent !important;
+    background-color: #fff !important;
     color: #99FFD4;
 }
 
