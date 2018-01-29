@@ -33,7 +33,7 @@
 }
 
 .panel {
-    border: 1px solid #cefff5; 
+    border: 1px solid #99FFD4; 
     border-radius:0;
     transition: box-shadow 0.5s;
 }
@@ -43,14 +43,14 @@
 }
 
 .panel-footer .btn:hover {
-    border: 1px solid #cefff5;
+    border: 1px solid #99FFD4;
     background-color: #fff !important;
-    color: #cefff5;
+    color: #99FFD4;
 }
 
 .panel-heading {
     color: #fff !important;
-    background-color: #cefff5 !important;
+    background-color: #99FFD4 !important;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
@@ -74,13 +74,13 @@
 
 .panel-footer .btn {
     margin: 15px 0;
-    background-color: #cefff5;
+    background-color: #99FFD4;
     color: #fff;
 }
 
 .navbar {
     margin-bottom: 0;
-    background-color: #cefff5;
+    background-color: #99FFD4;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -94,7 +94,7 @@
 }
 
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #cefff5 !important;
+    color: #99FFD4 !important;
     background-color: #fff !important;
 }
 
@@ -107,7 +107,7 @@
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
-    color: #cefff5;
+    color: #99FFD4;
 }
 
 .slideanim {visibility:hidden;}
