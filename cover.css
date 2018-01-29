@@ -1,3 +1,7 @@
+.moment {
+    height: 150px;
+    overflow: scroll;
+}
 .jumbotron { 
     background-color: black;
     background-image: url("https://raw.githubusercontent.com/scnhs/bunnyhop5k/master/grass.png");
