@@ -19,9 +19,9 @@
 }
 
 .btn-danger:hover {
-    color: #fff;
-    background-color: #ff99c4;
-    border-color: #ff99c4;
+    border: 1px solid #99FFD4;
+    background-color: #fff !important;
+    color: #99FFD4;
 }
 
 .container-fluid {
