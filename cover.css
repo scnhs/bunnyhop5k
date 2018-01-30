@@ -21,7 +21,7 @@
 
 .btn-danger {
     border: 1px solid #99FFD4;
-    background-color: transparent !important;
+    background-color: transparent;
     color: #99FFD4;
 }
 
