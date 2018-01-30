@@ -14,21 +14,21 @@
 
 
 .btn-danger:hover {
-    border: 1px solid #99FFD4;
-    background-color: #99FFD4;
+    border: 1px solid #82ceae;
+    background-color: #82ceae;
     color: #fff;
 }
 
 .btn-danger:active {
-    border: 1px solid #99FFD4;
-    background-color: #99FFD4;
+    border: 1px solid #82ceae;
+    background-color: #82ceae;
     color: #fff;
 }
 
 .btn-danger {
-    border: 1px solid #99FFD4;
+    border: 1px solid #82ceae;
     background-color: transparent;
-    color: #99FFD4;
+    color: #82ceae;
 }
 
 .container-fluid {
@@ -54,7 +54,7 @@
 }
 
 .panel {
-    border: 1px solid #99FFD4; 
+    border: 1px solid #82ceae; 
     border-radius:0;
     transition: box-shadow 0.5s;
 }
