@@ -19,6 +19,12 @@
     color: #fff;
 }
 
+.btn-danger:active {
+    border: 1px solid #99FFD4;
+    background-color: #99FFD4;
+    color: #fff;
+}
+
 .btn-danger {
     border: 1px solid #99FFD4;
     background-color: transparent;
