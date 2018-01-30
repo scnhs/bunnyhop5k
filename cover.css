@@ -64,14 +64,14 @@
 }
 
 .panel-footer .btn:hover {
-    border: 1px solid #99FFD4;
+    border: 1px solid #93d8bb;
     background-color: #fff !important;
-    color: #99FFD4;
+    color: #93d8bb;
 }
 
 .panel-heading {
     color: #fff !important;
-    background-color: #99FFD4 !important;
+    background-color: #93d8bb !important;
     padding: 25px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 0px;
@@ -95,13 +95,13 @@
 
 .panel-footer .btn {
     margin: 15px 0;
-    background-color: #99FFD4;
+    background-color: #93d8bb;
     color: #fff;
 }
 
 .navbar {
     margin-bottom: 0;
-    background-color: #99FFD4;
+    background-color: #93d8bb;
     z-index: 9999;
     border: 0;
     font-size: 12px !important;
@@ -115,7 +115,7 @@
 }
 
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #99FFD4 !important;
+    color: #93d8bb !important;
     background-color: #fff !important;
 }
 
@@ -128,7 +128,7 @@
 footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
-    color: #99FFD4;
+    color: #93d8bb;
 }
 
 .slideanim {visibility:hidden;}
