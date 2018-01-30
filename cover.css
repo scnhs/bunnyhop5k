@@ -13,15 +13,15 @@
 }
 
 .btn-danger {
-    color: #fff;
-    background-color: #99FFD4;
-    border-color: #99FFD4;
-}
-
-.btn-danger:hover {
     border: 1px solid #99FFD4;
     background-color: transparent !important;
     color: #99FFD4;
+}
+
+.btn-danger:hover {
+    color: #fff;
+    background-color: #99FFD4;
+    border-color: #99FFD4;
 }
 
 .container-fluid {
