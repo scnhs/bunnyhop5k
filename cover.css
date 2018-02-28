@@ -15,8 +15,8 @@
 
 .btn-danger:hover {
     border: 1px solid #93d8bb;
-    background-color: #93d8bb;
-    color: #fff;
+    background-color: transparent;
+    color: #93d8bb;
 }
 
 .btn-danger:active {
@@ -27,8 +27,8 @@
 
 .btn-danger {
     border: 1px solid #93d8bb;
-    background-color: transparent;
-    color: #93d8bb;
+    background-color: #93d8bb;
+    color: #fff;
 }
 
 .container-fluid {
