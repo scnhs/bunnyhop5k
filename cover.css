@@ -1,3 +1,7 @@
+.square {
+    height: 100%;
+    width: 100%;
+}
 .moment {
     height: 600px;
     overflow: scroll;
