@@ -11,6 +11,9 @@
     height: 800px;
     overflow: scroll;
 }
+.video {
+    width: 100%;
+}
 .jumbotron { 
     background-color: black;
     background-image: url("https://i.redd.it/yaku06t0w2d01.jpg");
