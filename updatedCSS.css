@@ -22,7 +22,9 @@
     color: white;
     text-align: center;
     vertical-align: middle;
-    padding: 100px 25px;
+    padding-top: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 #pricingBox{
 	width:100%
@@ -47,7 +49,7 @@
 }
 
 .container-fluid {
-    padding: 60px 50px;
+    padding: 0px 50px;
 }
 
 .bg-grey {
