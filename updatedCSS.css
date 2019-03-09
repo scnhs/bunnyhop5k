@@ -1,0 +1,209 @@
+.square {
+    height: 100%;
+    width: 100%;
+}
+
+.long {
+    width: 100%;
+    height: 100%
+}
+
+.video {
+    width: 100%;
+}
+.moment {
+    height: 800px;
+    overflow: scroll;
+}
+.jumbotron { 
+    background-color: black;
+    background-image: url("https://i.redd.it/yaku06t0w2d01.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    padding: 100px 25px;
+}
+#pricingBox{
+	width:100%
+}
+
+.btn-danger:hover {
+    border: 1px solid #93d8bb;
+    background-color: transparent;
+    color: #93d8bb;
+}
+
+.btn-danger:active {
+    border: 1px solid #93d8bb;
+    background-color: #93d8bb;
+    color: #fff;
+}
+
+.btn-danger {
+    border: 1px solid #93d8bb;
+    background-color: #93d8bb;
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 60px 50px;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+.logo {
+    font-size: 200px;
+}
+.form-inline {
+    float: right;
+    clear: both;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+}
+
+.panel {
+    border: 1px solid #93d8bb; 
+    border-radius:0;
+    transition: box-shadow 0.5s;
+}
+
+.panel:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+.panel-footer .btn:hover {
+    border: 1px solid #93d8bb;
+    background-color: #fff !important;
+    color: #93d8bb;
+}
+
+.panel-heading {
+    color: #fff !important;
+    background-color: #93d8bb !important;
+    padding: 25px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.panel-footer {
+    background-color: #fff !important;
+}
+
+.panel-footer h3 {
+    font-size: 32px;
+}
+
+.panel-footer h4 {
+    color: #aaa;
+    font-size: 14px;
+}
+
+.panel-footer .btn {
+    margin: 15px 0;
+    background-color: #93d8bb;
+    color: #fff;
+}
+
+.donate-btn{
+	margin: 15px 0;
+    background-color: #93d8bb;
+    color: #fff;
+}
+
+marquee *{
+	/*height: 200px;*/
+	white-space: nowrap;
+	/*overflow-x: hidden;*/
+	/*width: 1500px;*/
+	overflow: hidden;
+}
+
+marquee img,span{
+	height: 200px !important;
+	position: relative;
+	/*float: left;*/
+	margin: 0;
+	padding: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #93d8bb;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #93d8bb !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
+
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #93d8bb;
+}
+
+.slideanim {visibility:hidden;}
+.slide {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide; 
+    /* The duration of the animation */
+    animation-duration: 1s; 
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible; 
+}
+
+.overflowing{
+	height: 400px;
+	overflow: visible;
+}
+
+
+/* Go from 0% to 100% opacity (see-through) and specify the percentage from when to slide in the element along the Y-axis */
+@keyframes slide {
+    0% {
+        opacity: 0;
+        transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        transform: translateY(0%);
+    } 
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
+}
