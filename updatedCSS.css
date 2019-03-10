@@ -116,10 +116,21 @@
     color: #fff;
 }
 
-.donate-btn{
-	margin: 15px 0;
+.donate-btn {
+	border-radius: 6px !important;
+    margin: 15px 0;
     background-color: #93d8bb;
     color: #fff;
+}
+
+.fa {
+  color: #93d8bb;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.col-md-10 {
+    padding-left: 100px;
 }
 
 marquee *{
