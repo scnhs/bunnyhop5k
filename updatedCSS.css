@@ -124,12 +124,12 @@
 
 marquee *{
 	/*height: 200px;*/
-	white-space: nowrap;
+	/*white-space: nowrap;
 	/*overflow-x: hidden;*/
 	/*width: 1500px;*/
+	float: none;
 	overflow: hidden;
 }
-
 marquee img,span{
 	height: 200px !important;
 	position: relative;
