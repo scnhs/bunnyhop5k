@@ -174,8 +174,8 @@ marquee img,span{
 
 footer .glyphicon {
     font-size: 20px;
-    margin-bottom: 20px;
     color: #93d8bb;
+    display: inline;
 }
 
 .slideanim {visibility:hidden;}
